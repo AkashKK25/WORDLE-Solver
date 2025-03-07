@@ -2,7 +2,7 @@
 
 A powerful web application that helps solve the daily [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzle by suggesting possible words based on your current guesses.
 
-![Wordle Solver Screenshot](static/screenshot.png)
+![Wordle Solver Demo](static/wordle_solver_demo.gif)
 
 ## 📝 Description
 
@@ -18,7 +18,7 @@ Wordle Solver is an interactive tool that assists players in finding solutions f
 
 ## 🚀 Demo
 
-Try out the live web app: [Wordle Solver](https://your-deployment-url.com)
+Try out the live web app: [Wordle Solver](https://akashkk25.github.io/WORDLE-Solver-GHP/)
 
 ## 💻 Technologies Used
 
